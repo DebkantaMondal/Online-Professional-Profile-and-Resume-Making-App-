@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:cardElevation="20dp"
+        app:cardCornerRadius="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="120dp"
+                android:layout_height="160dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ic_account_circle"
+                app:civ_border_width="2dp"
+                app:civ_border_color="@color/colorPrimary"
+                android:layout_gravity="center"
+                android:id="@+id/pImage"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SET PROFILE IMAGE"
+                android:id="@+id/upload"
+                android:layout_gravity="center"
+                android:theme="@style/PrimaryFlatButton" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:text="Your Name"
+                    android:textAlignment="center"
+                    android:textColor="#000"
+                    android:textSize="21sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <TextView
+                    android:id="@+id/college"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Your College"
+                    android:textAlignment="center"
+                    android:textColor="#444242"
+                    android:textSize="13sp"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <TextView
+                    android:id="@+id/add"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Your Address"
+                    android:textAlignment="center"
+                    android:textColor="#555"
+                    android:textSize="13sp"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:background="#ccc" />
+
+                <TextView
+                    android:id="@+id/object"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Your Objective"
+                    android:textAlignment="center"
+                    android:textColor="#444242"
+                    android:textSize="13sp"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:background="#ccc" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="EXPERIENCE"
+                    android:theme="@style/PrimaryFlatButton" />
+
+                <TextView
+                    android:id="@+id/experience"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0 Years"
+                    android:textAlignment="center"
+                    android:textColor="#444242"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:background="#ccc" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="EDUCATION"
+                    android:theme="@style/PrimaryFlatButton" />
+
+
+                <TextView
+                    android:id="@+id/qalify"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Your Qualification"
+                    android:textAlignment="center"
+                    android:textColor="#444242"
+                    android:textSize="18sp"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <TextView
+                    android:id="@+id/eCollege"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Your College"
+                    android:textAlignment="center"
+                    android:textColor="#000"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <TextView
+                    android:id="@+id/school"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Your School"
+                    android:textAlignment="center"
+                    android:textColor="#000"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:background="#ccc" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SKILLS"
+                    android:theme="@style/PrimaryFlatButton" />
+
+
+                <TextView
+                    android:id="@+id/tskill"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#188F11"
+                    android:text="Skill 1"
+                    android:textAlignment="center"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <TextView
+                    android:id="@+id/tsskill"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#43B618"
+                    android:text="Skill 2"
+                    android:textAlignment="center"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <TextView
+                    android:id="@+id/ttskill"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#69C512"
+                    android:text="Skill 3"
+                    android:textAlignment="center"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:background="#ccc" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="IMPORTANT LINKS"
+                    android:theme="@style/PrimaryFlatButton" />
+
+                <TextView
+                    android:id="@+id/git"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="No Github"
+                    android:textAlignment="center"
+                    android:textColor="#000"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:fontFamily="Roboto,sans-serif"/>
+
+                <TextView
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:text="Your Mail ID"
+                    android:textAlignment="center"
+                    android:textColor="#302D2D"
+                    android:textSize="15sp"
+                    android:fontFamily="Roboto,sans-serif"/>
+                <TextView
+                    android:id="@+id/ph"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:text="Your Contact No"
+                    android:textAlignment="center"
+                    android:textColor="#302D2D"
+                    android:textSize="15sp"
+                    android:fontFamily="Roboto,sans-serif"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="EDIT"
+                    android:id="@+id/edit"
+                    android:theme="@style/PrimaryFlatButton"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="EXPLORE"
+                    android:id="@+id/explore"
+                    android:theme="@style/PrimaryFlatButton" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

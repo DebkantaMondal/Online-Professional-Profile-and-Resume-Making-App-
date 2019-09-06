@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#FFFFFF"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_weight="0.61"
+        android:layout_marginTop="-210dp"
+        android:layout_marginBottom="-65dp"
+        android:src="@drawable/ic_person_pin_"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:fontFamily="Roboto,Sans-serif"
+        android:layout_marginBottom="1dp"
+        android:text="Profile Creation"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:layout_weight="0.11" />
+
+    <TextView
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="Roboto,Sans-serif"
+        android:layout_marginTop="5dp"
+        android:text="You have create your Profile and You can get Notification of Jobs according to Your Skills"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="23sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

@@ -1,0 +1,389 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4cbd5b5437667989556be5318d9fb6a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\0f97e4ee7bd67e20524170639b6487c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\95b6de7b41b7039daddabeb8b845d326\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8fc51cd59df040b69c52c8be8b608f7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d3498b579a53c133beac7f6c98901b7f\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\476fe422e8b7d9291ef1ba6b87418e0c\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:17:1-39:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c9b68b82d010737a48beee0dc310ce8b\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4c1162fd264c27926952a81f3018067e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\504af8b80e8e3668a645ee4146182ced\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\1e349864a53df70488de58def8636a04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a7ebb78b2e01e6c5d3d4c536437c8129\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\0c416c179068266ee244ca05f4cc1d88\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\683ca57c587f978f035cdbea7820d141\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\98ce8e831ca8e55073efd4c76c4f2fc1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\55a49f3a581c8ed5950244451a42d01e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\22274e856b327a57d1f2361f0d45b4c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c03c821d8b89cc1762366c62ca63f407\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d93f2d86036bd491a6f0ece6536bd211\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\909bc67efbb6a68ff94ccbe26245be04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\2c9e8a659c26f5566a140beb669b6313\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\71ecf81b483a6238f78362a40f211637\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3f683e71ded5fe0a2e7940746cfa0690\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\de0927501ae0697ca09a5097ffa7f8b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\320524c0ae5abd21a0ef9b4b40c7faa1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cc0a0da5fcbd3b4a75f2436837a981df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8439c6abd709c152db32ff22dd3c56a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\30e5ea1add07230661aa6afcc045c211\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\522559c45a57debdcfde7ee78f1317d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\27abc575b96b2112226c697e53b89299\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3d4c9e1f1b91025bb2247f440bac348d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f8a51a48494d9294850329140eee5b56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4cdeb4f0dbe317d45988ba4a647e5de8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\91a68ff3495ba11c929488f65c658f8f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3cd38c8480541858f09666b9c8aea8e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4223cbceda4358a147662bf1bb7e24c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\b60f2da8cbbdd9b0bd961dd116502b82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\9a2ffdc3e949446ad4673895e3ec9737\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\29b7179606fb6a980e68f699105131fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\02c8e9963969d10423e6967d0f156d38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\7d75f7cb2e995c12052b2df67db20ef3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\7645cedaeb9079f9824bf923f209744a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ff0a7ab4566502b887d3a74d612965ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\42c339a908c9597f989106f3df936ee2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d3498b579a53c133beac7f6c98901b7f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d3498b579a53c133beac7f6c98901b7f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\476fe422e8b7d9291ef1ba6b87418e0c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\476fe422e8b7d9291ef1ba6b87418e0c\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d3498b579a53c133beac7f6c98901b7f\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d3498b579a53c133beac7f6c98901b7f\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\476fe422e8b7d9291ef1ba6b87418e0c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\476fe422e8b7d9291ef1ba6b87418e0c\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:9:22-73
+application
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:11:5-51:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4cbd5b5437667989556be5318d9fb6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4cbd5b5437667989556be5318d9fb6a\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8fc51cd59df040b69c52c8be8b608f7\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8fc51cd59df040b69c52c8be8b608f7\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:22:5-37:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c9b68b82d010737a48beee0dc310ce8b\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c9b68b82d010737a48beee0dc310ce8b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\504af8b80e8e3668a645ee4146182ced\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\504af8b80e8e3668a645ee4146182ced\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a7ebb78b2e01e6c5d3d4c536437c8129\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a7ebb78b2e01e6c5d3d4c536437c8129\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\55a49f3a581c8ed5950244451a42d01e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\55a49f3a581c8ed5950244451a42d01e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4cdeb4f0dbe317d45988ba4a647e5de8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4cdeb4f0dbe317d45988ba4a647e5de8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\91a68ff3495ba11c929488f65c658f8f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\91a68ff3495ba11c929488f65c658f8f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4cdeb4f0dbe317d45988ba4a647e5de8\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.resumeapp.WelcomeActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:18:9-19:71
+	android:theme
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:18:19-50
+activity#com.example.resumeapp.RateUsActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:20:9-21:57
+	android:parentActivityName
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:21:13-55
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.example.resumeapp.FeedbackActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:22:9-24:58
+	android:parentActivityName
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:23:13-45
+activity#com.example.resumeapp.SplashActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:theme
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:26:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.resumeapp.FirstTimeActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:34:9-36:45
+	android:label
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:36:13-42
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:35:13-46
+activity#com.example.resumeapp.ProfileActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:37:9-40:58
+	android:parentActivityName
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:40:13-55
+	android:label
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:38:13-44
+activity#com.example.resumeapp.ForgotPasswordActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:41:9-43:46
+	android:label
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:42:13-51
+activity#com.example.resumeapp.RegisterActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:44:9-46:44
+	android:label
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:46:13-41
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:45:13-45
+activity#com.example.resumeapp.MainActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:47:9-49:41
+	android:label
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:49:13-38
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:48:13-41
+activity#com.example.resumeapp.LoginActivity
+ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:50:9-51
+	android:name
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml:50:19-48
+uses-sdk
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4cbd5b5437667989556be5318d9fb6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4cbd5b5437667989556be5318d9fb6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\0f97e4ee7bd67e20524170639b6487c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\0f97e4ee7bd67e20524170639b6487c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\95b6de7b41b7039daddabeb8b845d326\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\95b6de7b41b7039daddabeb8b845d326\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8fc51cd59df040b69c52c8be8b608f7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8fc51cd59df040b69c52c8be8b608f7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d3498b579a53c133beac7f6c98901b7f\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d3498b579a53c133beac7f6c98901b7f\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\476fe422e8b7d9291ef1ba6b87418e0c\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\476fe422e8b7d9291ef1ba6b87418e0c\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c9b68b82d010737a48beee0dc310ce8b\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c9b68b82d010737a48beee0dc310ce8b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4c1162fd264c27926952a81f3018067e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4c1162fd264c27926952a81f3018067e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\504af8b80e8e3668a645ee4146182ced\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\504af8b80e8e3668a645ee4146182ced\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\1e349864a53df70488de58def8636a04\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\1e349864a53df70488de58def8636a04\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a7ebb78b2e01e6c5d3d4c536437c8129\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a7ebb78b2e01e6c5d3d4c536437c8129\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\0c416c179068266ee244ca05f4cc1d88\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\0c416c179068266ee244ca05f4cc1d88\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\683ca57c587f978f035cdbea7820d141\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\683ca57c587f978f035cdbea7820d141\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\98ce8e831ca8e55073efd4c76c4f2fc1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\98ce8e831ca8e55073efd4c76c4f2fc1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\55a49f3a581c8ed5950244451a42d01e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\55a49f3a581c8ed5950244451a42d01e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\22274e856b327a57d1f2361f0d45b4c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\22274e856b327a57d1f2361f0d45b4c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c03c821d8b89cc1762366c62ca63f407\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\c03c821d8b89cc1762366c62ca63f407\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d93f2d86036bd491a6f0ece6536bd211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\d93f2d86036bd491a6f0ece6536bd211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\909bc67efbb6a68ff94ccbe26245be04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\909bc67efbb6a68ff94ccbe26245be04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\2c9e8a659c26f5566a140beb669b6313\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\2c9e8a659c26f5566a140beb669b6313\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\71ecf81b483a6238f78362a40f211637\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\71ecf81b483a6238f78362a40f211637\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3f683e71ded5fe0a2e7940746cfa0690\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3f683e71ded5fe0a2e7940746cfa0690\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\de0927501ae0697ca09a5097ffa7f8b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\de0927501ae0697ca09a5097ffa7f8b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\320524c0ae5abd21a0ef9b4b40c7faa1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\320524c0ae5abd21a0ef9b4b40c7faa1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cc0a0da5fcbd3b4a75f2436837a981df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cc0a0da5fcbd3b4a75f2436837a981df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8439c6abd709c152db32ff22dd3c56a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\a8439c6abd709c152db32ff22dd3c56a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\30e5ea1add07230661aa6afcc045c211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\30e5ea1add07230661aa6afcc045c211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\522559c45a57debdcfde7ee78f1317d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\522559c45a57debdcfde7ee78f1317d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\27abc575b96b2112226c697e53b89299\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\27abc575b96b2112226c697e53b89299\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3d4c9e1f1b91025bb2247f440bac348d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3d4c9e1f1b91025bb2247f440bac348d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f8a51a48494d9294850329140eee5b56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f8a51a48494d9294850329140eee5b56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4cdeb4f0dbe317d45988ba4a647e5de8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\4cdeb4f0dbe317d45988ba4a647e5de8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\91a68ff3495ba11c929488f65c658f8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\91a68ff3495ba11c929488f65c658f8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3cd38c8480541858f09666b9c8aea8e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\3cd38c8480541858f09666b9c8aea8e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4223cbceda4358a147662bf1bb7e24c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\f4223cbceda4358a147662bf1bb7e24c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\b60f2da8cbbdd9b0bd961dd116502b82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\b60f2da8cbbdd9b0bd961dd116502b82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\9a2ffdc3e949446ad4673895e3ec9737\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\9a2ffdc3e949446ad4673895e3ec9737\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\29b7179606fb6a980e68f699105131fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\29b7179606fb6a980e68f699105131fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\02c8e9963969d10423e6967d0f156d38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\02c8e9963969d10423e6967d0f156d38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\7d75f7cb2e995c12052b2df67db20ef3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\7d75f7cb2e995c12052b2df67db20ef3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\7645cedaeb9079f9824bf923f209744a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\7645cedaeb9079f9824bf923f209744a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ff0a7ab4566502b887d3a74d612965ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ff0a7ab4566502b887d3a74d612965ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\42c339a908c9597f989106f3df936ee2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\42c339a908c9597f989106f3df936ee2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEBKANTA\AndroidStudioProjects\ResumeApp\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\59cfdb40a709da0e63b79c3aafc1b6f6\AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\6d025451675a36fcf02e6749db8615db\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\28c2b78d0513854c0b0e7b5b210348b9\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\ebf422316ca6353933adb66f5e86ef6a\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DEBKANTA\.gradle\caches\transforms-2\files-2.1\cbca4c5e61e274ecc5df3f1d42500429\AndroidManifest.xml:24:13-58
